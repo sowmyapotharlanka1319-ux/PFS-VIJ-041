@@ -67,13 +67,6 @@ print(a+b)'''
 print(a)'''
 
 #task
-'''a=input("idno:")
-c=input("mobile:")
-d=input("mailid:")
-e=input("clg:")
-f=input("branch:")
-options=input(idno:mobileno:mailid:clg:Branch:)
-print(options)'''
 
 #STUDENT-PROFILE
 '''idno=int(input("enter the idno:"))
